@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" display="flex">
-    <img src="./assets/desktop.png" width="700px">
+    <img src="./assets/tela.jpeg" width="700px">
     <img src="./assets/celular.png" width="300px">
 
 </p>
