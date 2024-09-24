@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-<h1 align="center">Online food menu🍔</h1>
+<h1 align="center">DEliVery Interface</h1>
 <p align="center" font="bold">This application is a online food menu, where users can place their order and send it directly to the fast food WhatsApp
 . 100% responsive app for any devices.
 </p>
