@@ -6,9 +6,7 @@
 </p>
 
 <p align="center" display="flex">
-    <img src="https://imgur.com/a/XMjsvdv" width="700px">
-    <img src="./assets/celular.png" width="300px">
-
+    <img src="tela.jpeg" width="700px">
 </p>
 
 
